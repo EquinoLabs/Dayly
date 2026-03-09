@@ -1,2 +1,5 @@
 # Dayly
-AI-powered daily briefing app that brings weather, events, news, reminders, and insights into one smart dashboard.
+
+Start your day smarter.
+
+Dayly is an AI-powered mobile dashboard that gives you a personalized daily briefing including weather, calendar events, reminders, news summaries, and intelligent suggestions.
